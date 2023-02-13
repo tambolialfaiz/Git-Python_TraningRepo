@@ -6,13 +6,13 @@
 
 
 #Second Check Method .
-# name="a"
-# if name>="A" and name<="Z" :
-#     print("This is alhabate")
-# elif name>="a" and name<="z" :
-#     print("this is alphabate")
-# else:
-#     print("This is other value")
+name="a"
+if name>="A" and name<="Z" :
+    print("This is alhabate")
+elif name>="a" and name<="z" :
+    print("this is alphabate")
+else:
+    print("This is other value")
 
 # Q3) vowel check it.
 
@@ -35,16 +35,16 @@
 #         print("This is odd number")
 
 
-num=int(input("Write number here :-"))
-if num%2==0:
-    print("This number is even")
-else:
-    print("This is odd number")
+# num=int(input("Write number here :-"))
+# if num%2==0:
+#     print("This number is even")
+# else:
+#     print("This is odd number")
 
 
 
-    def marks(i):
-        switcher={
-            35:"Pass"
-
-        }
+    # def marks(i):
+    #     switcher={
+    #         35:"Pass"
+    #
+    #     }

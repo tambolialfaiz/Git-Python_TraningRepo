@@ -5,7 +5,7 @@
 
 
 num=[1,5,3,9,6,8,45,3,3,3,3]
-# print(sum(num)) #sum() function is used to calculate sum of  all numbers.
+print(sum(num)) #sum() function is used to calculate sum of  all numbers.
 # print(min(num)) #min() function is find the lowest number in list.
 # print(max(num)) #max() function find the highest number in list.
 # print(any(num)) #any() function if the list even one number is true then the o/p is True.

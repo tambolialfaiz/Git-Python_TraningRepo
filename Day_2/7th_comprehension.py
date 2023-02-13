@@ -7,6 +7,17 @@
 # print(list)
 
 
+#
+# lis=[]
+# for i in 'Alfaiz':
+#     lis.extend(i)
+#     print(lis)
+#
+# lits=[i for i in "Alfaiz"]
+# print(lits)
+
+
+
 # num=[i for i in "1234578"]
 # print(num)
 
@@ -24,6 +35,6 @@
 
 #conditional in list comprehension
 
-hi=[i for i in range(8) if i%2!=0]
-print(hi)
+# hi=[i for i in range(8) if i%2!=0]
+# print(hi)
 

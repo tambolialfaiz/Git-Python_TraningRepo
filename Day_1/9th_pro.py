@@ -7,7 +7,7 @@ print(b)
 
 # sub question 2nd
 a=[0,1,2]
-c=3
+c=1
 print(c in a)
 
 # print(a)

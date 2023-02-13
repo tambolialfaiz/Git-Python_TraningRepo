@@ -55,7 +55,6 @@ perform Bitwise OR on the operands and then assigning result to the left operand
  a = a | b '''
 # a=2
 # b=8
-#
 # a|=b
 # print(a)
 
@@ -70,9 +69,9 @@ perform Bitwise OR on the operands and then assigning result to the left operand
 '''Bitwise Left Shift and Assign: This operator is used to perform Bitwise left shift on 
 # the operands and then assigning result to the left operand.'''
 # a = a << b
-a=3
-b=5
-a<<=b
-print(a)
-print(bin(a))
-print(bin(b))
+# a=3
+# b=5
+# a<<=b
+# print(a)
+# print(bin(a))
+# print(bin(b))
