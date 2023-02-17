@@ -1,0 +1,5 @@
+f=open("file.txt","w")
+# res=f.read()
+f.write("who are you  ")
+# print(res)
+f.close()
